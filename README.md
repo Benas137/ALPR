@@ -1,2 +1,2 @@
 # ALPR
-Completed version
+Visas ALPR projektas.
