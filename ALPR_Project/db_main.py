@@ -22,10 +22,10 @@ with open('plate_info.json', 'r') as file:
 print('[*] Connecting to server...')
 
 db = mysql.connector.connect(
-    host='38.242.159.2',
-    user='jjg',
-    passwd='JJGadmin174!',
-    database='plates'
+    host='',
+    user='',
+    passwd='',
+    database=''
 )   
 
 mycursor = db.cursor()
